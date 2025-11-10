@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/racket launch.unity
+    guid: a9eb241f7be5c734e9d24562b71165fb
+  - enabled: 1
+    path: Assets/Scenes/Planet.unity
+    guid: 814be974cad794e15b4b92041614ba68
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f8799f3b24e579642bca0bc21bddf494, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e8a329c1df46630459ff948f783aa2d2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7b7aaa320b9f00a4d9e5d2228e3711ca, type: 2}
+  m_UseUCBPForAssetBundles: 0
